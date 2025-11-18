@@ -1,12 +1,23 @@
 [
-   {
+  {
+    "href": "top-emerging-adventure-destinations-for-2025",
+    "title": "Top Emerging Adventure Destinations for 2025",
+    "img": "assets/images/blog/top-advanture-destination-small-img.png",
+    "imgAlt": "Top Emerging Adventure Destinations for 2025",
+    "imgTitle": "Top Emerging Adventure Destinations for 2025",
+    "displayDate": "18 November, 2025",
+    "isoDate": "2025-11-18",
+    "category": "international"
+
+  }, 
+  {
     "href": "best-international-destinations-for-indian-travellers",
     "title": "Best International Destinations for Indian Travellers",
     "img": "assets/images/blog/Swizerland-blog-small-img.png",
     "imgAlt": "Best International Destinations for Indian Travellers",
     "imgTitle": "Best International Destinations for Indian Travellers",
     "displayDate": "10 November, 2025",
-    "isoDate": "2025-11-05",
+    "isoDate": "2025-11-10",
     "category": "international"
 
   },
